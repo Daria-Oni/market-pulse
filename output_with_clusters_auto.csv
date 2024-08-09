@@ -1,0 +1,21 @@
+URL,Title,keywords,Content,cluster_id,cluster_title
+http://example.com/beaches/0,Top Beach Destinations for Family Fun,"coastal, family-friendly, relaxing",Enjoy family-friendly beaches with relaxing sunsets and coastal activities.,1,"""Coastal Family Retreat"""
+http://example.com/beaches/1,Secluded Beaches for Quiet Getaways,"family-friendly, sunsets, coastal",Discover secluded beach spots perfect for a peaceful getaway with stunning views.,1,"""Coastal Family Retreat"""
+http://example.com/beaches/2,Popular Beaches for Summer Fun,"beach, coastal, family-friendly",Plan your next summer vacation at top-rated beaches known for their vibrant sunsets and fun activities.,1,"""Coastal Family Retreat"""
+http://example.com/beaches/3,Best Coastal Areas for Relaxation,"sunsets, family-friendly, coastal",Explore coastal regions offering a perfect blend of relaxation and family-friendly attractions.,1,"""Coastal Family Retreat"""
+http://example.com/mountains/0,Mountain Trails for Every Hiker,"hiking, mountain, trails",Find the best mountain trails for both beginners and seasoned hikers.,2,"""Scenic Mountain Hiking Trails"""
+http://example.com/mountains/1,Scenic Mountain Hikes for Nature Lovers,"trails, scenic, hiking",Explore nature on scenic trails with breathtaking mountain views.,2,"""Scenic Mountain Hiking Trails"""
+http://example.com/mountains/2,Adventure Trails for Hiking Enthusiasts,"nature, scenic, mountain",Embark on hiking adventures through trails surrounded by natural beauty and diverse wildlife.,7,"""Scenic Mountain Escape"""
+http://example.com/mountains/3,Challenging Mountain Paths for Explorers,"hiking, scenic, trails",Challenge yourself on high-altitude trails offering panoramic scenic views and rigorous paths.,2,"""Scenic Mountain Hiking Trails"""
+http://example.com/cities/0,City Tours Featuring Museums and Historic Sites,"urban, tours, museums",Visit cities rich in culture with museums and historical landmarks.,5,"""Urban Historical Tours & Museums"""
+http://example.com/cities/1,Urban Explorations: Museums and History,"museums, tours, historical",Explore urban centers offering a mix of modern museums and historical sites.,5,"""Urban Historical Tours & Museums"""
+http://example.com/cities/2,Cultural Gems: City Museums and Tours,"historical, tours, city",Discover the history and art of major cities through guided tours and museum visits.,3,Historical City Tours
+http://example.com/cities/3,Historical Tours in Bustling Cities,"tours, city, historical",Experience the vibrant urban life while exploring famous historical and cultural sites.,3,Historical City Tours
+http://example.com/safaris/0,Safari Adventure: Wildlife Encounters,"adventures, Africa, wildlife",Experience close encounters with diverse wildlife on a safari adventure in Africa.,6,"""African Safari Adventures"""
+http://example.com/safaris/1,Guided Safari Tours in the Wild,"safari, exploration, wildlife",Join guided safaris to explore the wilderness and wildlife habitats in Africa.,4,"""Safari & Wildlife Exploration"""
+http://example.com/safaris/2,African Safari: Wildlife Exploration,"safari, exploration, wildlife",Discover Africa’s rich wildlife through expertly guided safari adventures.,4,"""Safari & Wildlife Exploration"""
+http://example.com/safaris/3,Exotic Wildlife Safaris in Africa,"safari, adventures, wildlife",Explore the natural habitat of exotic animals on a thrilling African safari.,6,"""African Safari Adventures"""
+http://example.com/cruises/0,Luxury Cruises to Tropical Islands,"sea, cruise, luxury",Enjoy luxurious cruise trips visiting tropical islands and enjoying the sea breeze.,0,Luxury Sea Cruise & Tropical Islands
+http://example.com/cruises/1,Exotic Island Cruises: A Luxury Experience,"islands, sea, cruise",Discover the beauty of tropical islands on a comfortable luxury cruise.,0,Luxury Sea Cruise & Tropical Islands
+http://example.com/cruises/2,Cruise Adventures to Tropical Destinations,"sea, luxury, tropical",Relax on a cruise trip featuring exotic island stops and luxurious amenities.,0,Luxury Sea Cruise & Tropical Islands
+http://example.com/cruises/3,High-End Cruises with Island Stops,"islands, luxury, sea",Sail across the sea exploring beautiful islands and enjoying top-tier luxury on board.,0,Luxury Sea Cruise & Tropical Islands
