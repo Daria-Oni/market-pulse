@@ -3,7 +3,7 @@ from scrapegraphai.graphs import SmartScraperGraph
 
 graph_config = {
     "llm": {
-        "api_key": "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",
+        "api_key": "secret",
         "model": "gpt-4o-mini",
     },
     "verbose": True,
