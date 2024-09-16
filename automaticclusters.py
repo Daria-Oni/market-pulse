@@ -4,7 +4,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'secret'
 
 
 def load_data(csv_file):
